@@ -13,7 +13,7 @@ and an assortment of elements.
 Pull requests are welcome. For major changes, please open an issue first
 to discuss what you would like to change.
 
-##Credits:
+##Credits
 
 	Demo Images:
 		Unsplash (unsplash.com)
